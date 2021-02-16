@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Social-App.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/React-Social-App.git/static/js/main.c31a4454.chunk.js",
-    "main.js.map": "/React-Social-App.git/static/js/main.c31a4454.chunk.js.map",
-    "runtime-main.js": "/React-Social-App.git/static/js/runtime-main.d7a08266.js",
-    "runtime-main.js.map": "/React-Social-App.git/static/js/runtime-main.d7a08266.js.map",
-    "static/js/2.2fd4eb5b.chunk.js": "/React-Social-App.git/static/js/2.2fd4eb5b.chunk.js",
-    "static/js/2.2fd4eb5b.chunk.js.map": "/React-Social-App.git/static/js/2.2fd4eb5b.chunk.js.map",
-    "static/js/3.84580192.chunk.js": "/React-Social-App.git/static/js/3.84580192.chunk.js",
-    "static/js/3.84580192.chunk.js.map": "/React-Social-App.git/static/js/3.84580192.chunk.js.map",
-    "index.html": "/React-Social-App.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/React-Social-App.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2fd4eb5b.chunk.js.LICENSE.txt": "/React-Social-App.git/static/js/2.2fd4eb5b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/React-Social-App.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.c31a4454.chunk.js",
+    "main.js.map": "/static/js/main.c31a4454.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a46988b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a46988b.js.map",
+    "static/js/2.2fd4eb5b.chunk.js": "/static/js/2.2fd4eb5b.chunk.js",
+    "static/js/2.2fd4eb5b.chunk.js.map": "/static/js/2.2fd4eb5b.chunk.js.map",
+    "static/js/3.84580192.chunk.js": "/static/js/3.84580192.chunk.js",
+    "static/js/3.84580192.chunk.js.map": "/static/js/3.84580192.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2fd4eb5b.chunk.js.LICENSE.txt": "/static/js/2.2fd4eb5b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7a08266.js",
+    "static/js/runtime-main.7a46988b.js",
     "static/js/2.2fd4eb5b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.c31a4454.chunk.js"
